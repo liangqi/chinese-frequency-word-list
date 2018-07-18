@@ -8,7 +8,7 @@
 阿拉伯语	a1'la1'bo2'yu3	30476
 阿妈	a1'ma1	16220
 阿门	a1'men2	47913
-阿Ｑ	a1'qiu1	20845
+阿Ｑ	a1'Q	20845
 阿司匹林	a1'si1'pi3'lin2	40294
 阿嚏	a1'ti4	54643
 阿姨	a1'yi2	6842
@@ -296,7 +296,6 @@
 黯然	an4'ran2	17605
 黯然神伤	an4'ran2'shen2'shang1	35774
 黯然失色	an4'ran2'shi1'se4	29817
-黯淡	an4'dan4	14340
 肮脏	ang1'zang1	10361
 当	ang1	591
 昂	ang2	9175
@@ -398,7 +397,6 @@
 巴望	ba1'wang4	25540
 巴掌	ba1'zhang3	8739
 叭	ba1	10069
-叭儿狗	ba1'er'gou3	55088
 扒	ba1	16883
 扒车	ba1'che1	54650
 扒拉	ba1'la	31482
@@ -2767,7 +2765,6 @@
 脖梗儿	bo2'geng3'er	39046
 脖领儿	bo2'ling3'er	40520
 脖子	bo2'zi3	4028
-脖颈儿	bo2'geng3'er	39046
 伯	bo2	7642
 伯伯	bo2'bo	11934
 伯父	bo2'fu4	12451
@@ -4245,7 +4242,7 @@
 长虫	chang2'chong	37855
 长处	chang2'chu	10590
 长春	chang2'chun1	4346
-长	Chang2	1368
+长	chang2	1368
 长辞	chang2'ci2	35326
 长程	chang2'cheng2	26510
 长笛	chang2'di2	35631
@@ -4874,7 +4871,6 @@
 撑死	cheng1'si3	41194
 撑腰	cheng1'yao1	19943
 撑住	cheng1'zhu4	28700
-撑杆跳高	cheng1'gan1'tiao4'gao1	35038
 瞠目结舌	cheng1'mu4'jie2'she2	24622
 瞠目	cheng1'mu4	29299
 丞相	cheng2'xiang4	9324
@@ -4971,7 +4967,6 @@
 成章	cheng2'zhang1	48659
 成长	cheng2'zhang3	1940
 成竹在胸	cheng2'zhu2'zai4'xiong1	33235
-成想	cheng2'xiang3	44092
 呈送	cheng2'song4	35786
 呈	cheng2	2007
 呈报	cheng2'bao4	25400
@@ -5110,7 +5105,7 @@
 澄碧	cheng2'bi4	47627
 澄澈	cheng2'che4	31386
 澄净	cheng2'jing4	47937
-澄清	Cheng2'qing1	12404
+澄清	cheng2'qing1	12404
 橙	cheng2	17773
 橙红	cheng2'hong2	45221
 橙黄	cheng2'huang2	36960
@@ -5199,7 +5194,6 @@
 吃斋	chi1'zhai1	35787
 吃重	chi1'zhong4	50110
 吃罪不起	chi1'zui4'bu4'qi3	50894
-吃里扒外	chi1'li3'pa2'wai4	48280
 哧	chi1	18324
 哧溜	chi1'liu1	41887
 嗤之以鼻	chi1'zhi1'yi3'bi2	31387
@@ -6040,7 +6034,7 @@
 穿着	chuan1'zhuo2	4652
 传帮带	chuan2'bang1'dai4	33737
 传单	chuan2'dan1	13074
-传	Chuan2	3548
+传	chuan2	3548
 传本	chuan2'ben3	41894
 传播	chuan2'bo1	1853
 传布	chuan2'bu4	30146
@@ -6503,7 +6497,6 @@
 辞行	ci2'xing2	20395
 辞章	ci2'zhang1	52181
 辞职	ci2'zhi2	4552
-辞藻	ci2'zao3	35330
 磁	ci2	6574
 磁暴	ci2'bao4	53657
 磁场	ci2'chang3	9563
@@ -7197,7 +7190,6 @@
 打嘴	da3'zui3	40752
 打嘴仗	da3'zui3'zhang4	54737
 打坐	da3'zuo4	31021
-打颤	da3'zhan4	35797
 大婶儿	da4'shen3'er	11099
 大钞	da4'chao1	42879
 大肚子	da4'du4'zi	20233
@@ -7644,7 +7636,6 @@
 呆账	dai1'zhang4	28811
 呆滞	dai1'zhi4	19274
 待	dai1	4627
-待会儿	dai1'hui4'er	35335
 歹毒	dai3'du2	37512
 歹念	dai3'nian4	51760
 歹人	dai3'ren2	37513
@@ -8008,7 +7999,7 @@
 当路	dang1'lu4	48682
 当面	dang1'mian4	6900
 当年	dang1'nian2	1193
-当年	dang1'nian2	9416
+当年	dang4'nian2	9416
 当前	dang1'qian2	1189
 当权	dang1'quan2	27999
 当权派	dang1'quan2'pai4	30153
@@ -8038,7 +8029,6 @@
 当天	dang1'tian1	13573
 当头	dang1'tou2	17554
 当夜	dang1'ye4	20082
-当做	dang1'zuo4	3253
 裆	dang1	19694
 挡	dang3	5085
 挡板	dang3'ban3	40985
@@ -8239,7 +8229,7 @@
 倒背如流	dao4'bei4'ru2'liu2	41674
 倒彩	dao4'cai3	53677
 倒插门	dao4'cha1'men2	44944
-倒车	dao4'che1	36791
+倒车	dao3'che1	36791
 倒车	dao4'che1	31725
 倒刺	dao4'ci4	50524
 倒打一耙	dao4'da3'yi1'pa2	41903
@@ -9324,7 +9314,6 @@
 掉头	diao4'tou2	14115
 掉以轻心	diao4'yi3'qing1'xin1	16968
 掉转	diao4'zhuan3	24492
-掉包	diao4'bao1	50140
 爹	die1	3203
 爹爹	die1'die1	13379
 爹妈	die1'ma1	18529
@@ -11217,7 +11206,6 @@
 反转	fan3'zhuan3	42894
 反转	fan3'zhuan4	40554
 反坐	fan3'zuo4	50159
-反照	fan3'zhao4	35194
 返工	fan3'gong1	29840
 返航	fan3'hang2	26120
 返还	fan3'huan2	11938
@@ -14684,7 +14672,6 @@
 固体	gu4'ti3	7013
 固有	gu4'you3	8827
 固执	gu4'zhi2	9521
-固步自封	gu4'bu4'zi4'feng1	36811
 故都	gu4'du1	34049
 故弄玄虚	gu4'nong4'xuan2'xu1	28826
 故乡	gu4'xiang1	3773
@@ -14722,7 +14709,6 @@
 故纸堆	gu4'zhi3'dui1	41699
 故纵	gu4'zong4	43886
 故作	gu4'zuo4	14118
-故技	gu4'ji4	50183
 顾	gu4	2726
 顾不得	gu4'bu4'de2	10452
 顾不及	gu4'bu4'ji2	47358
@@ -15953,7 +15939,6 @@
 涵盖	han2'gai4	8150
 涵养	han2'yang3	14158
 涵闸	han2'zha2	44414
-涵义	han2'yi4	5924
 寒气	han2'qi4	14389
 寒暑表	han2'shu3'biao3	47070
 寒微	han2'wei1	43183
@@ -15995,7 +15980,6 @@
 寒战	han2'zhan4	33395
 寒症	han2'zheng4	55678
 寒腿	han2'tui3	55252
-寒颤	han2'zhan4	33395
 韩	han2	2317
 韩国	han2'guo2	2245
 罕见	han3'jian4	6353
@@ -16190,7 +16174,6 @@
 豪壮	hao2'zhuang4	42922
 豪族	hao2'zu2	51399
 嚎	hao2	15530
-嚎哭	hao2'ku1	34051
 嚎啕	hao2'tao2	30272
 壕	hao2	16577
 壕沟	hao2'gou1	24058
@@ -16198,7 +16181,6 @@
 号	hao2	3751
 号叫	hao2'jiao4	35509
 号哭	hao2'ku1	34051
-号啕	hao2'tao2	30272
 貉	hao2	37707
 好脸	hao3'lian3	46464
 好身手	hao3'shen1'shou3	49449
@@ -17429,7 +17411,7 @@
 花缎	hua1'duan4	42452
 花朵	hua1'duo3	8416
 花萼	hua1'e4	45299
-花儿	hua1'er2	10721
+花儿	hua1'r	10721
 花儿	hua1'er2	22272
 花房	hua1'fang2	39926
 花肥	hua1'fei2	55270
@@ -18247,7 +18229,6 @@
 回执	hui2'zhi2	28632
 回转	hui2'zhuan3	18689
 回族	hui2'zu2	8534
-回游	hui2'you2	37009
 洄游	hui2'you2	37009
 茴香	hui2'xiang1	38277
 茴香豆	hui2'xiang1'dou4	49466
@@ -19253,7 +19234,6 @@
 嫉贤妒能	ji2'xian2'du4'neng2	51429
 嫉妒	ji2'du4	10323
 嫉恨	ji2'hen4	34490
-嫉恶如仇	ji2'e4'ru2'chou2	40160
 蒺藜	ji2'li2	40161
 辑	ji2	11271
 辑录	ji2'lu4	30933
@@ -20403,7 +20383,6 @@
 将士	jiang4'shi4	4810
 将帅	jiang4'shuai4	20279
 将校	jiang4'xiao4	23274
-浆糊	jiang4'hu	48384
 匠	jiang4	11272
 匠人	jiang4'ren2	25415
 匠心	jiang4'xin1	29332
@@ -20539,7 +20518,6 @@
 交战	jiao1'zhan4	11998
 交战国	jiao1'zhan4'guo2	50610
 交账	jiao1'zhang4	49485
-交待	jiao1'dai4	6449
 郊	jiao1	14776
 郊区	jiao1'qu1	6223
 郊外	jiao1'wai4	12103
@@ -23096,7 +23074,6 @@
 看重	kan4'zhong4	7828
 看准	kan4'zhun3	21114
 看作	kan4'zuo4	5054
-看做	kan4'zuo4	5054
 康	kang1	4153
 康拜因	kang1'bai4'yin1	51029
 康复	kang1'fu4	6183
@@ -26542,7 +26519,6 @@
 论资排辈	lun4'zi1'pai2'bei4	25204
 捋	luo1	44177
 啰唆	luo1'suo1	55763
-啰嗦	luo1'suo1	55763
 罗	luo2	2269
 罗非鱼	luo2'fei1'yu2	38512
 罗锅	luo2'guo1	19960
@@ -27090,7 +27066,6 @@
 慢性子	man4'xing4'zi3	53860
 慢悠悠	man4'you1'you1	26136
 慢走	man4'zou3	32782
-慢说	man4'shuo1	46830
 漫	man4	7263
 漫笔	man4'bi3	17305
 漫步	man4'bu4	9953
@@ -27709,7 +27684,6 @@
 糜	mi2	20702
 糜费	mi2'fei4	55776
 麋鹿	mi2'lu4	30077
-靡费	mi2'fei4	55776
 眯	mi2	36331
 靡靡	mi3'mi3	48430
 靡靡之音	mi3'mi3'zhi1'yin1	51912
@@ -27992,7 +27966,6 @@
 渺渺	miao3'miao3	37030
 渺无人烟	miao3'wu2'ren2'yan1	49180
 渺小	miao3'xiao3	15171
-渺远	miao3'yuan3	53352
 藐视	miao3'shi4	20093
 藐小	miao3'xiao3	49181
 邈远	miao3'yuan3	53352
@@ -28406,7 +28379,6 @@
 磨牙	mo2'ya2	34071
 磨制	mo2'zhi4	43940
 磨嘴皮	mo2'zui3'pi2	52854
-磨练	mo2'lian4	17453
 蘑菇云	mo2'gu1'yun2	41751
 蘑菇	mo2'gu1	12925
 魔术师	mo2'shu4'shi1	23546
@@ -29303,7 +29275,6 @@
 腻烦	ni4'fan2	37039
 腻人	ni4'ren2	44775
 腻味	ni4'wei4	36185
-腻子	ni4'zi	55939
 拈	nian1	13598
 拈花惹草	nian1'hua1're3'cao3	46249
 拈阄	nian1'jiu1	54409
@@ -29384,7 +29355,6 @@
 年中	nian2'zhong1	10912
 年终	nian2'zhong1	8709
 年资	nian2'zi1	46250
-年青	nian2'qing1	697
 鲇鱼	nian2'yu2	36853
 黏	nian2	24650
 黏稠	nian2'chou2	40846
@@ -30145,7 +30115,7 @@
 泡	pao1	16998
 泡桐	pao1'tong2	31192
 泡子	pao1'zi	51091
-泡子	pao1'zi	42267
+泡子	pao4'zi	42267
 刨	pao2	7890
 刨除	pao2'chu2	54893
 刨根儿	pao2'gen1'er	36687
@@ -31597,8 +31567,6 @@
 起重机	qi3'zhong4'ji1	26988
 起皱	qi3'zhou4	41073
 起子	qi3'zi3	43727
-起航	qi3'hang2	29555
-起行	qi3'xing2	42990
 绮丽	qi3'li4	27300
 气窗	qi4'chuang1	46858
 气愤	qi4'fen4	7860
@@ -35454,7 +35422,7 @@
 少见	shao3'jian4	8764
 少礼	shao3'li3	52922
 少量	shao3'liang4	8308
-少	Shao3	1809
+少	shao3	1809
 少数	shao3'shu4	2032
 少数民族	shao3'shu4'min2'zu2	2499
 少许	shao3'xu3	20518
@@ -35484,7 +35452,7 @@
 少爷	shao4'ye	5631
 少壮	shao4'zhuang4	34846
 少壮派	shao4'zhuang4'pai4	43972
-少	Shao4	1672
+少	shao4	1672
 少白头	shao4'bai2'tou2	53405
 少不更事	shao4'bu4'geng1'shi4	44215
 邵	shao4	12299
@@ -35504,7 +35472,6 @@
 奢谈	she1'tan2	47180
 奢望	she1'wang4	18343
 奢想	she1'xiang3	51123
-奢靡	she1'mi2	31899
 猞猁	she1'li4	45687
 赊欠	she1'qian4	43973
 赊销	she1'xiao1	39779
@@ -41351,7 +41318,6 @@
 托收	tuo1'shou1	45715
 托运	tuo1'yun4	20456
 托子	tuo1'zi3	46600
-托辞	tuo1'ci2	23558
 拖	tuo1	2183
 拖把	tuo1'ba3	37791
 拖布	tuo1'bu4	46601
@@ -42202,10 +42168,6 @@
 帷幄	wei2'wo4	40890
 帷帐	wei2'zhang4	48907
 惟妙惟肖	wei2'miao4'wei2'xiao4	27240
-惟恐	wei2'kong3	14721
-惟我独尊	wei2'wo3'du2'zun1	35288
-惟一	wei2'yi1	55975
-惟有	wei2'you3	8171
 维新	wei2'xin1	14949
 维修	wei2'xiu1	4538
 维权	wei2'quan2	5855
@@ -43901,7 +43863,6 @@
 下装	xia4'zhuang1	48173
 下坠	xia4'zhui4	30765
 下作	xia4'zuo	36551
-下三滥	xia4'san1'lan4	55947
 吓	xia4	8339
 吓唬	xia4'hu	14864
 吓人	xia4'ren2	13865
@@ -44547,7 +44508,6 @@
 祥和	xiang2'he2	9174
 祥瑞	xiang2'rui4	35734
 祥云	xiang2'yun2	14817
-翔实	xiang2'shi2	16642
 享	xiang3	7798
 享福	xiang3'fu2	17399
 享乐	xiang3'le4	13222
@@ -44766,7 +44726,7 @@
 霄汉	xiao1'han4	48545
 霄壤之别	xiao1'rang3'zhi1'bie2	51182
 嚣张	xiao1'zhang1	19288
-肖	Xiao1	2929
+肖	xiao1	2929
 淆乱	xiao2'luan4	46317
 小辫儿	xiao3'bian4'er	21648
 小抄儿	xiao3'chao1'er	54542
@@ -45021,7 +44981,6 @@
 小卒	xiao3'zu2	40041
 小组	xiao3'zu3	1505
 小坐	xiao3'zuo4	37095
-小题大做	xiao3'ti2'da4'zuo4	30659
 晓	xiao3	27258
 晓畅	xiao3'chang4	42809
 晓得	xiao3'de	4010
@@ -46668,7 +46627,6 @@
 雪原	xue3'yuan2	21130
 雪灾	xue3'zai1	23396
 雪中送炭	xue3'zhong1'song4'tan4	17732
-雪里红	xue3'li3'hong2	49290
 血海	xue4'hai3	38797
 血浆	xue4'jiang1	18410
 血泡	xue4'pao4	31107
@@ -48811,7 +48769,6 @@
 义正词严	yi4'zheng4'ci2'yan2	36398
 义冢	yi4'zhong3	50798
 义子	yi4'zi3	34881
-义正辞严	yi4'zheng4'ci2'yan2	36398
 亿	yi4	2771
 亿万	yi4'wan4	6693
 亿万斯年	yi4'wan4'si1'nian2	52543
@@ -48973,7 +48930,6 @@
 翌年	yi4'nian2	25235
 翌日	yi4'ri4	18226
 逸趣	yi4'qu4	53044
-逸闻	yi4'wen2	35913
 意境	yi4'jing4	9288
 意识流	yi4'shi2'liu2	35451
 意想	yi4'xiang3	36751
@@ -49536,7 +49492,6 @@
 赢	ying2	2545
 赢得	ying2'de2	2566
 赢家	ying2'jia1	33467
-赢利	ying2'li4	6729
 颖悟	ying3'wu4	46943
 影	ying3	3832
 影楼	ying3'lou2	42824
@@ -49596,7 +49551,7 @@
 应诺	ying4'nuo4	46632
 应聘	ying4'pin4	14739
 应声	ying4'sheng1	15112
-应声	ying4'sheng1	18859
+应声	ying1'sheng1	18859
 应声虫	ying4'sheng1'chong2	47250
 应时	ying4'shi2	12993
 应市	ying4'shi4	15197
@@ -50342,7 +50297,7 @@
 于心不忍	yu2'xin1'bu4'ren3	34722
 余韵	yu2'yun4	39213
 余	yu2	300
-余	yu2	38345
+佘	she2	38345
 余波	yu2'bo1	26791
 余党	yu2'dang3	36923
 余地	yu2'di4	8841
@@ -50445,7 +50400,6 @@
 渔业	yu2'ye4	5060
 渔政	yu2'zheng4	22557
 渔舟	yu2'zhou1	39643
-渔汛	yu2'xun4	54065
 愉快	yu2'kuai4	3143
 愉悦	yu2'yue4	11833
 逾	yu2	5642
@@ -50477,7 +50431,6 @@
 榆树	yu2'shu4	16413
 榆叶梅	yu2'ye4'mei2	50806
 瑜伽	yu2'jia1	40064
-瑜珈	yu2'jia1	40064
 虞	yu2	13539
 虞美人	yu2'mei3'ren2	45465
 舆图	yu2'tu2	44877
@@ -50774,7 +50727,7 @@
 鹬蚌相争，渔翁得利	yu4'bang4'xiang1'zheng1'yu2'weng1'de2'li4	56006
 熨	yu4	23840
 熨烫	yu4'tang4	45769
-熨帖	yu4'tie1	37111
+熨贴	yu4'tie1	37111
 熨帖	yu4'tie1	42351
 鸢尾	yuan1'wei3	51221
 鸢	yuan1	38193
@@ -51068,7 +51021,6 @@
 约谈	yue1'tan2	36403
 约同	yue1'tong2	31699
 约言	yue1'yan2	48963
-约莫	yue1'mo	20263
 乐律	yue4'lv4	55545
 乐	yue4	5158
 乐池	yue4'chi2	50811
@@ -51637,7 +51589,7 @@
 早衰	zao3'shuai1	36244
 早霜	zao3'shuang1	54075
 早起	zao3'qi3	15237
-早稻	zao3'dao4	49447
+旱稻	han4'dao4	49447
 早日	zao3'ri4	3783
 早点	zao3'dian3	8561
 枣	zao3	7600
@@ -51841,7 +51793,6 @@
 赠言	zeng4'yan2	35922
 赠予	zeng4'yu3	35611
 赠阅	zeng4'yue4	37829
-赠与	zeng4'yu3	35611
 咋呼	zha1'hu	42107
 渣	zha1	10273
 渣土	zha1'tu3	41386
@@ -51872,7 +51823,7 @@
 眨	zha3	8089
 眨巴	zha3'ba1	18453
 眨眼	zha3'yan3	13605
-眨眼	zha3'yan3	34135
+扎眼	zha1'yan3	34135
 眨眼间	zha3'yan3'jian1	31471
 乍	zha4	8948
 乍暖还寒	zha4'nuan3'hai2'han2	48970
@@ -53209,7 +53160,6 @@
 执政党	zhi2'zheng4'dang3	5966
 执政府	zhi2'zheng4'fu3	42617
 执著	zhi2'zhuo2	11047
-执着	zhi2'zhuo2	11047
 侄儿	zhi2'er2	12026
 侄女	zhi2'nv3	14462
 侄女婿	zhi2'nv3'xu	50447
@@ -53594,7 +53544,6 @@
 致以	zhi4'yi3	7612
 致意	zhi4'yi4	12880
 致用	zhi4'yong4	36582
-致辞	zhi4'ci2	13207
 掷	zhi4	7607
 掷弹筒	zhi4'dan4'tong3	50057
 掷地有声	zhi4'di4'you3'sheng1	25939
@@ -53918,7 +53867,7 @@
 中暑	zhong4'shu3	26506
 中选	zhong4'xuan3	17769
 中意	zhong4'yi4	18812
-种	Zhong4	2939
+种	zhong4	2939
 种地	zhong4'di4	9978
 种痘	zhong4'dou4	47274
 种瓜得瓜，种豆得豆	zhong4'gua1'de2'gua1'zhong4'dou4'de2'dou4	52121
@@ -55085,7 +55034,6 @@
 子虚乌有	zi3'xu1'wu1'you3	31588
 子夜	zi3'ye4	18168
 子侄	zi3'zhi2	34003
-子鸡	zi3'ji1	55910
 姊妹	zi3'mei4	8668
 姊妹篇	zi3'mei4'pian1	45189
 紫红	zi3'hong2	23408
@@ -55231,7 +55179,7 @@
 自毁	zi4'hui3	30016
 自给	zi4'ji3	17032
 自己	zi4'ji3	42
-自己	zi4'ji3	10636
+自已	zi4'yi3	10636
 自己人	zi4'ji3'ren2	50066
 自给自足	zi4'ji3'zi4'zu2	24261
 自家	zi4'jia1	4395
@@ -55290,7 +55238,7 @@
 自强不息	zi4'qiang2'bu4'xi1	10719
 自轻自贱	zi4'qing1'zi4'jian4	47280
 自取	zi4'qu3	27671
-自然	Zi4'ran2	887
+自然	zi4'ran2	887
 自燃	zi4'ran2	33477
 自然保护区	zi4'ran2'bao3'hu4'qu1	6690
 自然村	zi4'ran2'cun1	16648
@@ -56020,7 +55968,6 @@
 座上客	zuo4'shang4'ke4	44321
 座谈	zuo4'tan2	5171
 座谈会	zuo4'tan2'hui4	2283
-座位	zuo4'wei4	6106
 座无虚席	zuo4'wu2'xu1'xi2	15622
 座椅	zuo4'yi3	18321
 座右铭	zuo4'you4'ming2	20892
@@ -56060,5 +56007,58 @@
 做针线	zuo4'zhen1'xian4	34145
 做证	zuo4'zheng4	44903
 做作	zuo4'zuo	18231
-做声	zuo4'sheng1	11107
+年青	nian2'qing1	697
+当做	dang1'zuo4	3253
+看做	kan4'zuo4	5054
+涵义	han2'yi4	5924
+座位	zuo4'wei4	6106
 做主	zuo4'zhu3	6172
+交待	jiao1'dai4	6449
+赢利	ying2'li4	6729
+惟有	wei2'you3	8171
+花儿	hua1'r	10721
+执着	zhi2'zhuo2	11047
+做声	zuo4'sheng1	11107
+致辞	zhi4'ci2	13207
+黯淡	an4'dan4	14340
+惟恐	wei2'kong3	14721
+翔实	xiang2'shi2	16642
+磨练	mo2'lian4	17453
+约莫	yue1'mo	20263
+托辞	tuo1'ci2	23558
+起航	qi3'hang2	29555
+号啕	hao2'tao2	30272
+小题大做	xiao3'ti2'da4'zuo4	30659
+奢靡	she1'mi2	31899
+寒颤	han2'zhan4	33395
+撑杆跳高	cheng1'gan1'tiao4'gao1	35038
+反照	fan3'zhao4	35194
+惟我独尊	wei2'wo3'du2'zun1	35288
+辞藻	ci2'zao3	35330
+待会儿	dai1'hui4'er	35335
+赠与	zeng4'yu3	35611
+打颤	da3'zhan4	35797
+逸闻	yi4'wen2	35913
+义正辞严	yi4'zheng4'ci2'yan2	36398
+固步自封	gu4'bu4'zi4'feng1	36811
+回游	hui2'you2	37009
+脖颈儿	bo2'geng3'er	39046
+瑜珈	yu2'jia1	40064
+嫉恶如仇	ji2'e4'ru2'chou2	40160
+起行	qi3'xing2	42990
+成想	cheng2'xiang3	44092
+慢说	man4'shuo1	46830
+吃里扒外	chi1'li3'pa2'wai4	48280
+浆糊	jiang4'hu	48384
+雪里红	xue3'li3'hong2	49290
+掉包	diao4'bao1	50140
+故技	gu4'ji4	50183
+渺远	miao3'yuan3	53352
+渔汛	yu2'xun4	54065
+叭儿狗	ba1'er'gou3	55088
+啰嗦	luo1'suo1	55763
+靡费	mi2'fei4	55776
+子鸡	zi3'ji1	55910
+腻子	ni4'zi	55939
+下三滥	xia4'san1'lan4	55947
+惟一	wei2'yi1	55975
