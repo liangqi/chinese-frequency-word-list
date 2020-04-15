@@ -12186,7 +12186,7 @@
 风味	feng1'wei4	13636
 风物	feng1'wu4	24053
 风习	feng1'xi2	38458
-风仙花	feng1'xian1'hua1	44962
+凤仙花	feng4'xian1'hua1	44962
 风险	feng1'xian3	1975
 风箱	feng1'xiang1	21519
 风向	feng1'xiang4	6326
@@ -13314,7 +13314,7 @@
 钢叉	gang1'cha1	42907
 钢盔	gang1'kui1	30702
 钢缆	gang1'lan3	42432
-钢粱	gang1'liang2	39915
+钢梁	gang1'liang2	39915
 钢坯	gang1'pi1	35813
 钢瓶	gang1'ping2	49792
 钢钎	gang1'qian1	35204
@@ -13531,9 +13531,9 @@
 高栏	gao1'lan2	46742
 高丽参	gao1'li2'can1	50174
 高利贷	gao1'li4'dai4	24056
-高梁	gao1'liang2	11524
-高粱米	gao1'liang2'mi3	40129
-高梁面	gao1'liang2'mian4	41241
+高粱	gao1'liang	11524
+高粱米	gao1'liang'mi3	40129
+高粱面	gao1'liang'mian4	41241
 高龄	gao1'ling2	9406
 高领	gao1'ling3	41454
 高岭土	gao1'ling3'tu3	49092
@@ -25593,7 +25593,7 @@
 寥落	liao2'luo4	49868
 嘹	liao2	16675
 嘹亮	liao2'liang4	15263
-嘹望	liao2'wang4	55991
+瞭望	liao4'wang4	55991
 撩	liao2	21313
 撩拨	liao2'bo1	27054
 撩动	liao2'dong4	52826
@@ -26188,8 +26188,8 @@
 龙柏	long2'bai3	50645
 龙船	long2'chuan2	30835
 龙灯	long2'deng1	26976
-龙飞风舞	long2'fei1'feng1'wu3	38509
-龙凤呈样	long2'feng4'cheng2'yang4	36011
+龙飞凤舞	long2'fei1'feng4'wu3	38509
+龙凤呈祥	long2'feng4'cheng2'xiang2	36011
 龙宫	long2'gong1	36170
 龙骨	long2'gu3	34971
 龙虎斗	long2'hu3'dou3	45937
@@ -29982,7 +29982,7 @@
 攀登	pan1'deng1	8202
 攀附	pan1'fu4	38523
 攀高枝儿	pan1'gao1'zhi1'er	52871
-攀龙附风	pan1'long2'fu4'feng1	41298
+攀龙附凤	pan1'long2'fu4'feng4	41298
 攀爬	pan1'pa2	33548
 攀亲	pan1'qin1	38524
 攀升	pan1'sheng1	9476
@@ -31159,6 +31159,7 @@
 普教	pu3'jiao4	45357
 普快	pu3'kuai4	53375
 普米族	pu3'mi3'zu2	42510
+普天同庆	pu3'tian1'tong2'qing4	40625
 普天下	pu3'tian1'xia4	37043
 普天之下	pu3'tian1'zhi1'xia4	38731
 普通	pu3'tong1	1096
@@ -39477,7 +39478,7 @@
 逃学	tao2'xue2	22549
 逃逸	tao2'yi4	20031
 逃债	tao2'zhai4	38363
-逃之天天	tao2'zhi1'tian1'tian1	26567
+逃之夭夭	tao2'zhi1'yao1'yao1	26567
 逃走	tao2'zou3	7933
 桃	tao2	7180
 桃符	tao2'fu2	50347
@@ -43315,7 +43316,6 @@
 希望工程	xi1'wang4'gong1'cheng2	12622
 昔年	xi1'nian2	40667
 昔日	xi1'ri4	4979
-昔天同庆	xi1'tian1'tong2'qing4	40625
 析出	xi1'chu1	29149
 析疑	xi1'yi2	53477
 矽肺	xi1'fei4	44845
