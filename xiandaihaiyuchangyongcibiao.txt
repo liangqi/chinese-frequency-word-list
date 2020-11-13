@@ -297,7 +297,6 @@
 黯然神伤	an4'ran2'shen2'shang1	35774
 黯然失色	an4'ran2'shi1'se4	29817
 肮脏	ang1'zang1	10361
-当	ang1	591
 昂	ang2	9175
 昂贵	ang2'gui4	10673
 昂然	ang2'ran2	19075
@@ -1430,7 +1429,6 @@
 刨食	bao4'shi2	37576
 刨子	bao4'zi	15992
 曝光	bao4'guang1	7269
-别	be4	40734
 卑鄙	bei1'bi3	13831
 卑躬屈膝	bei1'gong1'qu1'xi1	46991
 卑贱	bei1'jian4	30578
@@ -2450,6 +2448,7 @@
 别有洞天	bie2'you3'dong4'tian1	44915
 蹩脚	bie2'jiao3	27434
 瘪	bie3	15221
+别	bie4	40734
 别扭	bie4'niu	10208
 宾馆	bin1'guan3	4360
 宾客	bin1'ke4	12857
@@ -3910,6 +3909,7 @@
 参差	cen1'ci1	24937
 参差不齐	cen1'ci1'bu4'qi2	19047
 涔涔	cen2'cen2	34018
+噌	ceng1	32356
 层	ceng2	640
 层出不穷	ceng2'chu1'bu4'qiong2	11543
 层次	ceng2'ci4	1994
@@ -4537,7 +4537,7 @@
 超常	chao1'chang2	17608
 超车	chao1'che1	33491
 吵吵	chao1'chao	22352
-吵吵嚷嚷	chao1'chao'rang1	31718
+吵吵嚷嚷	chao1'chao'rang1'rang	31718
 巢	chao2	8676
 巢穴	chao2'xue2	25322
 朝	chao2	993
@@ -4828,7 +4828,6 @@
 趁势	chen4'shi4	20154
 趁早	chen4'zao3	21380
 谶语	chen4'yu3	41884
-噌	cheng1	32356
 称	cheng1	448
 称霸	cheng1'ba4	17888
 称便	cheng1'bian4	51743
@@ -6730,6 +6729,7 @@
 簇新	cu4'xin1	27516
 簇拥	cu4'yong1	12797
 蹙额	cu4'e2	47636
+汆	cuan1	48293
 汆子	cuan1'zi3	52658
 撺掇	cuan1'duo1	33620
 蹿跳	cuan1'tiao4	49039
@@ -7969,6 +7969,7 @@
 氮肥	dan4'fei2	19769
 氮气	dan4'qi4	26876
 石	dan4	5751
+当	dang1	591
 当先	dang1'xian1	15279
 当子	dang1'zi	53675
 当班	dang1'ban1	26604
@@ -24674,7 +24675,6 @@
 落枕	lao4'zhen3	52817
 落	lao4	6209
 落价	lao4'jia4	55381
-嘞	le1	28200
 乐	le4	1733
 乐不可支	le4'bu4'ke3'zhi1	35379
 乐不思蜀	le4'bu4'si1'shu3	45624
@@ -24782,6 +24782,7 @@
 擂台	lei4'tai2	27051
 擂台赛	lei4'tai2'sai4	18090
 擂主	lei4'zhu3	35536
+嘞	lei	28200
 棱	leng2	14194
 棱角	leng2'jiao3	23076
 棱镜	leng2'jing4	12701
@@ -41292,7 +41293,6 @@
 臀围	tun2'wei2	47837
 臀	tun2	17575
 臀尖	tun2'jian1	52981
-氽	tun3	48293
 褪	tun4	8223
 托	tuo1	2641
 托庇	tuo1'bi4	47204
@@ -52263,6 +52263,9 @@
 着	zhao1	8953
 着数	zhao1'shu4	46643
 着	zhao2	31472
+着边	zhao2'bian1	26172
+着床	zhao2'chuang2	39031
+着地	zhao2'di4	13005
 着慌	zhao2'huang1	36762
 着火	zhao2'huo3	14501
 着急	zhao2'ji2	4430
@@ -52363,11 +52366,6 @@
 肇祸	zhao4'huo4	48586
 肇始	zhao4'shi3	37658
 肇事	zhao4'shi4	14566
-著书	zhe'shu1	19354
-著文	zhe'wen2	33075
-着边	zhe'bian1	26172
-着床	zhe'chuang2	39031
-着地	zhe'di4	13005
 着哩	zhe'li	18944
 着呢	zhe'ne	10267
 遮掩	zhe1'yan3	13868
@@ -52459,7 +52457,6 @@
 蔗糖	zhe4'tang2	23844
 蔗田	zhe4'tian2	52573
 鹧鸪	zhe4'gu1	32462
-著	zhe	3141
 着	zhe	556
 贞操	zhen1'cao1	27255
 贞节	zhen1'jie2	30571
@@ -54404,6 +54401,7 @@
 柱子	zhu4'zi3	6708
 炷	zhu4	26431
 祝	zhu4	5077
+著	zhu4	3141
 祝词	zhu4'ci2	23973
 祝祷	zhu4'dao3	42117
 祝福	zhu4'fu2	6431
@@ -54421,7 +54419,9 @@
 著录	zhu4'lu4	17808
 著名	zhu4'ming2	984
 著书立说	zhu4'shu1'li4'shuo1	33074
+著书	zhu4'shu1	19354
 著述	zhu4'shu4	16810
+著文	zhu4'wen2	33075
 著者	zhu4'zhe3	21214
 著作	zhu4'zuo4	2721
 著作权	zhu4'zuo4'quan2	7702
